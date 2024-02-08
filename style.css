@@ -1,0 +1,28 @@
+@import url("font/webfontkit-20240208-140057/stylesheet.css");
+html{
+    height: 100%;
+}
+body{
+    height: auto;
+    background-color: black;
+    background-image: url(assets/bgimg.jpg);
+    background-size: 100vw;
+    background-repeat: no-repeat;
+}
+#jr{
+    height: 15vw;
+    padding-top: 17vh;
+    padding-left: 4vw;
+}
+p{
+    font-family: "pieces_of_eightregular";
+    color: azure;
+    font-size: 7vw;
+    margin-top: 1vh;
+    margin-left: 5vw;
+    margin-bottom: 3vh;
+}
+#subti{
+    font-size: 3vw;
+    margin-left: 30vw;
+}
