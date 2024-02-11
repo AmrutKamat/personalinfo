@@ -1,6 +1,6 @@
 @import url("font/webfontkit-20240208-140057/stylesheet.css");
 html{
-    height: 100%;
+    height: 200vw;
 }
 body{
     height: auto;
@@ -11,18 +11,97 @@ body{
 }
 #jr{
     height: 15vw;
-    padding-top: 17vh;
+    padding-top: 10vw;
     padding-left: 4vw;
 }
 p{
     font-family: "pieces_of_eightregular";
     color: azure;
     font-size: 7vw;
-    margin-top: 1vh;
+    margin-top: 0.5vw;
     margin-left: 5vw;
-    margin-bottom: 3vh;
+    margin-bottom: 1.5vw;
 }
 #subti{
     font-size: 3vw;
     margin-left: 30vw;
+}
+#s1{
+    margin: 0%;
+    height: 50vw;
+}
+#s2{
+    height: 50vw;
+    background-image: url(assets/bg2.jpg);
+    background-size:100vw;
+    margin-left: -0.5vw;
+    margin-right: -0.5vw;
+}
+#ab{
+    position: absolute;
+    font-size: 10vw;
+    margin-top: 4vw;
+}
+#if{
+    position: absolute;
+    font-size: 4vw;
+    width: 40vw;
+    margin-top: 18vw;
+    text-align: center;
+}
+#s3{
+    height: 50vw;
+    background-image: url(assets/bg3.jpg);
+    background-size: 100vw;
+    margin: -0.5vw;
+}
+#ps{
+    position: absolute;
+    font-size: 7.5vw;
+    margin-left: 25vw;
+    color: black;
+}
+#hc{
+    position: absolute;
+    font-size: 4vw;
+    color: #461619;
+    margin-top: 14vw;
+}
+#cc{
+    position: absolute;
+    font-size: 4vw;
+    color: #461619;
+    margin-top: 23vw;
+    margin-left: 50vw;
+    text-align: center;
+}
+#s4{
+    height: 50vw;
+    background-image: url(assets/bg4.jpg);
+    background-size: 100vw;
+    margin: -0.5vw;
+}
+#hb{
+    position: absolute;
+    color: black;
+    margin-left: 41vw;
+    font-size: 7.5vw;
+}
+#rd{
+    position: absolute;
+    color: black;
+    margin-top: 20vw;
+    margin-left: 3.5vw;
+    font-size: 4.4vw;
+    width: 53vw;
+    text-align: center;
+}
+#pg{
+    position: absolute;
+    color: black;
+    margin-top: 30vw;
+    margin-left: 3.5vw;
+    font-size: 4.4vw;
+    width: 53vw;
+    text-align: center;
 }
